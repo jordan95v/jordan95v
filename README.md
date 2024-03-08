@@ -1,11 +1,25 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-My name is Jordan Dufresne, i'm currently a student at ESGI (Ecole Supérieure de Génie Informatique) in the Software Architecture branch (3rd year)
+- [Personnal informations](#personnal-informations)
+- [Projects](#projects)
+- [Contact](#contact)
 
-I'm currently contracted inside Afnor GROUPE, in the PFNR team. We mostly do backend about french and foreign standards.
+## Personnal informations
 
-Feel free to look my projects, there is a mix of school and personnal project (most likely, python projects are personnal because we don't study this language at school).
-Do not hesitate to contact me: [jdufresne3@myges.fr](jdufresne3@myges.fr)
+🙇🏻 My name is Jordan Dufresne, i'm 24 y/o.
 
+📚 I'm currently a student at ESGI (Ecole Supérieure de Génie Informatique) in the Software Architecture branch (3rd year)
+
+🏢 I'm currently contracted inside Afnor GROUPE, in the PFNR team. We mostly do backend about french and foreign standards.
+
+## Projects
+
+🔎 Feel free to look at my projects, there is a mix of school and personnal project (most likely, python projects are personnal because we don't study this language at school).
+
+## Contact
+
+📬 Do not hesitate to contact me: [jdufresne3@myges.fr](jdufresne3@myges.fr)
+
+<img src="https://media.tenor.com/G13lUO8AyLIAAAAC/spy-x-family-spy-family.gif" width="100%">
 
 
