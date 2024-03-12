@@ -10,7 +10,7 @@
 
 📚 I'm currently a student at ESGI (Ecole Supérieure de Génie Informatique) in the Software Architecture branch (3rd year)
 
-🏢 I'm currently contracted inside Afnor GROUPE, in the PFNR team. We mostly do backend about french and foreign standards.
+🏢 I am doing my apprenticeship at Afnor GROUPE, in the PFNR team. We mostly do backend about french and foreign standards.
 
 ## Projects
 
