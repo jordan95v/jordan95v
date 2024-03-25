@@ -14,7 +14,7 @@
 
 ## Projects
 
-🔎 Feel free to look at my projects, there is a mix of school and personnal project (most likely, python projects are personnal because we don't study this language at school).
+🔎 Feel free to look at my projects, there is a mix of school and personnal project.
 
 ## Contact
 
