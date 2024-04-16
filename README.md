@@ -1,8 +1,11 @@
-<h1>Hi there 👋</h1>
+<div align="center">
+  <h1>Hi there 👋</h1>
+</div> 
 
 - [Personnal informations](#personnal-informations)
 - [Projects](#projects)
 - [Contact](#contact)
+
 
 ## Personnal informations
 
@@ -20,6 +23,9 @@
 
 📬 Do not hesitate to contact me: [jdufresne3@myges.fr](jdufresne3@myges.fr)
 
-<img src="https://media.tenor.com/G13lUO8AyLIAAAAC/spy-x-family-spy-family.gif" width="100%">
+<div align="center">
+  <img src="https://media.tenor.com/G13lUO8AyLIAAAAC/spy-x-family-spy-family.gif" width="100%"">
+</div> 
+
 
 
