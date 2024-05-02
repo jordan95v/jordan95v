@@ -7,7 +7,7 @@
 - [Contact](#contact)
 
 
-## Personnal informations
+## Personal informations
 
 🙇🏻 My name is Jordan Dufresne, i'm 24 y/o.
 
