@@ -13,7 +13,7 @@
 
 📚 I'm currently a student at ESGI (Ecole Supérieure de Génie Informatique) in the Software Architecture branch (3rd year)
 
-🏢 I am doing my apprenticeship at BPCE, in the RIsk, Innovation and Consolidation team.
+🏢 I am doing my apprenticeship at BPCE, in the RIC team (Risk, Innovation and Consolidation).
 
 ## Projects
 
