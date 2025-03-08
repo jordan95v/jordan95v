@@ -6,18 +6,17 @@
 - [Projects](#projects)
 - [Contact](#contact)
 
-
 ## Personal informations
 
-🙇🏻 My name is Jordan Dufresne, i'm 24 y/o.
+🙇🏻 My name is Jordan Dufresne, i'm 25 y/o.
 
-📚 I'm currently a student at ESGI (Ecole Supérieure de Génie Informatique) in the Software Architecture branch (3rd year)
+📚 I'm currently a student at ESGI (Ecole Supérieure de Génie Informatique) in the Software Architecture branch (4th year).
 
 🏢 I am doing my apprenticeship at BPCE, in the RIC team (Risk, Innovation and Consolidation).
 
 ## Projects
 
-🔎 Feel free to look at my projects, there is a mix of school and personnal project.
+🔎 Feel free to look at my projects, there is a mix of school and personal project.
 
 ## Contact
 
